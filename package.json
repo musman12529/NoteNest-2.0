@@ -1,12 +1,11 @@
 {
-  "homepage": "https://musman12529.github.io/NoteNest-2.0-React.js",
+  
   "name": "keeper-part-3-completed",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    
     "dev": "concurrently \"npm run start:react\" \"npm run start:server\"",
     "start:react": "vite",
     "start:server": "nodemon server.js",
