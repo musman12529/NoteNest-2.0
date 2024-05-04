@@ -5,7 +5,10 @@ NoteNest is a note-taking application built using React.js for the frontend, Nod
 ## Video Demonstration
 
 
-https://github.com/musman12529/NoteNest-2.0-React.js/assets/114633620/7ca1c3b4-d576-42e5-a316-602614a6bd65
+
+https://github.com/musman12529/NoteNest-2.0-React.js/assets/114633620/41acbe92-8f91-4885-8ecc-c81795dbed32
+
+
 
 
 
