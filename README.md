@@ -2,6 +2,13 @@
 
 NoteNest is a note-taking application built using React.js for the frontend, Node.js with Express for the backend, and MySQL for data storage. It provides a simple and intuitive interface for users to create, view, and delete notes.
 
+## Video Demonstration
+
+
+https://github.com/musman12529/NoteNest-2.0-React.js/assets/114633620/7ca1c3b4-d576-42e5-a316-602614a6bd65
+
+
+
 ## Features
 
 - **Create Notes**: Users can easily create new notes by entering a title and content.
